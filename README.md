@@ -12,6 +12,7 @@ This repository is maintained by a **university student** studying:
 - secure software engineering practices
 - agentic developer tooling architecture
 - defensive analysis of real-world CLI systems
+- explore harness design
 
 This archive is intended to support:
 
